@@ -1,4 +1,4 @@
-class Person {
+public class Person {
     protected String myName;
     protected int myAge;
     protected String myGender;

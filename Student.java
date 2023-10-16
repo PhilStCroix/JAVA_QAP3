@@ -1,4 +1,4 @@
-class Student extends Person {
+public class Student extends Person {
     protected String myIdNum;
     protected double myGPA;
 
